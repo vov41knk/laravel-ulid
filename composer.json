@@ -1,8 +1,8 @@
 {
-    "name": "rorecek/laravel-ulid",
+    "name": "vov41knk/laravel-ulid",
     "description": "Laravel package for ULID (Universally Unique Lexicographically Sortable Identifier)",
     "keywords": ["ulid", "uuid", "identifier", "guid"],
-    "homepage": "https://github.com/rorecek/laravel-ulid",
+    "homepage": "https://github.com/vov41knk/laravel-ulid",
     "license": "MIT",
     "authors": [
         {
